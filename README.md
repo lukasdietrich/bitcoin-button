@@ -1,7 +1,7 @@
 Bitcoin-button
 ==============
 
-A simple button to donate bitcoins.
+A simple button to donate bitcoins. Demo on [JSFiddle](http://jsfiddle.net/y5rWQ/)!
 
 All you have to do is to place a link like:
 
